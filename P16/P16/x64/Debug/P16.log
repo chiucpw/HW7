@@ -1,0 +1,4 @@
+﻿  P16.cpp
+C:\Users\chiuj\OneDrive\桌面\HW7\P16\P16\P16.cpp(12,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chiuj\OneDrive\桌面\HW7\P16\P16\P16.cpp(14,15): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  P16.vcxproj -> C:\Users\chiuj\OneDrive\桌面\HW7\P16\x64\Debug\P16.exe

@@ -1,0 +1,5 @@
+﻿  P18.cpp
+C:\Users\chiuj\OneDrive\桌面\HW7\P18\P18\P18.cpp(9,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chiuj\OneDrive\桌面\HW7\P18\P18\P18.cpp(10,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chiuj\OneDrive\桌面\HW7\P18\P18\P18.cpp(13,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  P18.vcxproj -> C:\Users\chiuj\OneDrive\桌面\HW7\P18\x64\Debug\P18.exe

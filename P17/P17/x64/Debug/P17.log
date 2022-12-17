@@ -1,0 +1,4 @@
+﻿  P17.cpp
+C:\Users\chiuj\OneDrive\桌面\HW7\P17\P17\P17.cpp(13,50): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\chiuj\OneDrive\桌面\HW7\P17\P17\P17.cpp(10,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  P17.vcxproj -> C:\Users\chiuj\OneDrive\桌面\HW7\P17\x64\Debug\P17.exe
